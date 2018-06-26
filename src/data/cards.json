@@ -1,0 +1,11 @@
+[
+  { "name": "Washington", "color": "blue", "count": 3 },
+  { "name": "New York", "color": "blue", "count": 3 },
+  { "name": "London", "color": "blue", "count": 3 },
+  { "name": "Jacksonville", "color": "yellow", "count": 3 },
+  { "name": "Sao Palo", "color": "yellow", "count": 3 },
+  { "name": "Lagos", "color": "yellow", "count": 3 },
+  { "name": "Istanbul", "color": "black", "count": 3 },
+  { "name": "Tripoli", "color": "black", "count": 3 },
+  { "name": "Cairo", "color": "black", "count": 3 }
+]
